@@ -105,6 +105,12 @@ a:hover {
 	padding: 5px 15px;	/*上下、左右への余白*/
 	border-bottom: 4px solid #ae0000;	/*下線の幅、線種、色*/
 }
+#main h4 {
+	clear: both;
+	margin-bottom: 15px;
+	font-size: 100%;
+	background: rgb(33, 196, 0);	/*背景色（古いブラウザ用）*/
+}
 /*メインコンテンツのp(段落)タグ設定*/
 #main p {
 	padding: 0px 15px 14px;	/*上、左右、下への余白*/
