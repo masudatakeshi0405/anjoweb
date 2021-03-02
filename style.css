@@ -13,7 +13,7 @@ body {
 	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	font-size: 14px;	/*文字サイズ*/
 	line-height: 2;		/*行間*/
-	background: #527b2d url(../images/bg.jpg) fixed;	/*背景色、背景画像の読み込み。fixedは画面をスクロールしても画像を固定させる設定。*/
+	background: #527b2d url(bg.jpg) fixed;	/*背景色、背景画像の読み込み。fixedは画面をスクロールしても画像を固定させる設定。*/
 	-webkit-text-size-adjust: none;
 }
 h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form {margin: 0px;padding: 0px;font-size: 100%;}
